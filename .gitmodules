@@ -1,0 +1,9 @@
+[submodule "RoomTest/Assets/M8VR"]
+	path = RoomTest/Assets/M8VR
+	url = https://github.com/ddionisio/MateUnityVR.git
+[submodule "RoomTest/Assets/M8"]
+	path = RoomTest/Assets/M8
+	url = https://github.com/ddionisio/MateUnity.git
+[submodule "RoomTest/Assets/M8Animator"]
+	path = RoomTest/Assets/M8Animator
+	url = https://github.com/ddionisio/MateAnimator.git
